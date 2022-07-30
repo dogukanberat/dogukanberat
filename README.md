@@ -3,17 +3,14 @@
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
  Dogukan Elbasan
 
----
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
-
 </h2>
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="https://www.ortus.com/">ORTUS
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-
+---
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dogukanberat?label=Follow)](https://twitter.com/intent/follow?screen_name=dogukanberat)
 [![Linkedin: anmol](https://img.shields.io/badge/-dogukanelbasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dogukanelbasan/)](https://www.linkedin.com/in/anmol098/)
