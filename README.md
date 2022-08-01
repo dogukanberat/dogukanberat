@@ -33,6 +33,12 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ---
 <!--START_SECTION:waka-->
+
+```text
+YAML       36 mins         ████████████████████░░░░░   80.12 %
+Markdown   9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.88 %
+```
+
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
