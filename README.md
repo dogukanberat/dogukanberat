@@ -13,7 +13,7 @@
 ---
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dogukanberat?label=Follow)](https://twitter.com/intent/follow?screen_name=dogukanberat)
-[![Linkedin: anmol](https://img.shields.io/badge/-dogukanelbasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dogukanelbasan/)](https://www.linkedin.com/in/anmol098/)
+[![Linkedin: dogukanelbasan](https://img.shields.io/badge/-dogukanelbasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dogukanelbasan/)](https://www.linkedin.com/in/dogukanelbasan/)
 ![GitHub followers](https://img.shields.io/github/followers/dogukanberat?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://dogukan.info/)](https://dogukan.info/)
 ![](https://visitor-badge.glitch.me/badge?page_id=dogukanberat)
