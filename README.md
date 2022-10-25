@@ -32,12 +32,12 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript             54 mins         ███████▒░░░░░░░░░░░░░░░░░   28.68 %
-YAML                   43 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
-Java                   34 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
-HTML                   31 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
-JSON                   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-XML                    9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+JavaScript   26 mins         ████████████████▓░░░░░░░░   66.08 %
+YAML         11 mins         ███████▒░░░░░░░░░░░░░░░░░   29.45 %
+CSS          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+HTML         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
